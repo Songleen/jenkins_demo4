@@ -7,7 +7,7 @@ package com.atguigu;
  */
 public class Apple {
 
-    private String appName = "this is a bad apple";
+    private String appName = "this is a nice apple";
 
     public String getAppName() {
         return appName;
